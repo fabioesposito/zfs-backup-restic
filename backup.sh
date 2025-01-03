@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # Environment Variables for Restic
 export RESTIC_REPOSITORY="s3:s3.amazonaws.com/your-bucket-name"
